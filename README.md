@@ -1,6 +1,6 @@
 # Scala DSL for money-related operations
 
-##Run tests
+## Run tests
 ```
 $ sbt console
 ```
